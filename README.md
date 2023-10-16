@@ -4,11 +4,10 @@
 How to use
 
 
-〜 環境構築 〜
+〜 環境構築 〜  
 homebrewのインストール  
 tresseractのインストール  
-```
-brew install tesseract
+```brew install tesseract
 brew install tesseract-lang
 ```
 
