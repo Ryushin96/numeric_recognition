@@ -4,7 +4,7 @@
 How to use
 
 
-〜環境構築〜
+〜 環境構築 〜
 homebrewのインストール  
 tresseractのインストール  
 ```
@@ -25,7 +25,7 @@ source ./count_num/bin/activate
 pip install -r requirements.txt  
 ```
 
-〜実行〜  
+〜 実行 〜  
 dataフォルダの中にmove.mp4という名前のファイルを追加する  
 ```
 python3 count_mov.py
